@@ -27,6 +27,7 @@ Professional prompt collections for specific workflows.
 | [claude-code-prompts](https://github.com/rog0x/claude-code-prompts) | 50 professional prompts for Claude Code developers |
 | [ai-automation-prompts](https://github.com/rog0x/ai-automation-prompts) | 50 professional prompts for automating workflows with AI |
 | [freelancer-toolkit-prompts](https://github.com/rog0x/freelancer-toolkit-prompts) | 40 professional prompts for freelance business -- proposals, contracts, pricing, communication |
+| [junior-developer-prompts](https://github.com/rog0x/junior-developer-prompts) | 30 prompts for junior developers -- learning, coding practice, debugging, career prep |
 
 ## Notion Templates
 
