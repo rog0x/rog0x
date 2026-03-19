@@ -19,6 +19,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-github-tools](https://github.com/rog0x/mcp-github-tools) | GitHub analytics tools for AI agents |
 | [mcp-json-tools](https://github.com/rog0x/mcp-json-tools) | JSON/data tools: validate, diff, transform, CSV/YAML convert |
 | [mcp-markdown-tools](https://github.com/rog0x/mcp-markdown-tools) | Markdown tools: TOC, lint, format, stats, table generator |
+| [mcp-regex-tools](https://github.com/rog0x/mcp-regex-tools) | Regex & text tools: test, replace, extract, explain, case conversion |
 
 ## Prompt Packs
 
@@ -42,6 +43,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-freelancer-os](https://github.com/rog0x/notion-freelancer-os) | Complete freelancer OS -- CRM, invoicing, projects, time tracking |
 | [notion-student-planner](https://github.com/rog0x/notion-student-planner) | Student Planner -- courses, assignments, exams, GPA, study schedule |
 | [notion-content-creator-os](https://github.com/rog0x/notion-content-creator-os) | Content Creator OS -- calendar, ideas vault, blog, social, newsletter, analytics |
+| [notion-startup-founder-os](https://github.com/rog0x/notion-startup-founder-os) | Startup Founder OS -- OKRs, roadmap, CRM, investors, metrics, hiring, sprints |
 
 ---
 
