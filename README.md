@@ -58,6 +58,7 @@ Professional prompt collections for specific workflows.
 | [devops-prompts](https://github.com/rog0x/devops-prompts) | 35 prompts for DevOps -- CI/CD, Docker, Kubernetes, Terraform, monitoring, security |
 | [security-prompts](https://github.com/rog0x/security-prompts) | 30 prompts for cybersecurity -- code audits, pentesting, incident response, compliance |
 | [ui-design-prompts](https://github.com/rog0x/ui-design-prompts) | 30 prompts for UI/UX -- components, design systems, accessibility, responsive |
+| [product-management-prompts](https://github.com/rog0x/product-management-prompts) | 30 prompts for PMs -- PRDs, RICE, user research, metrics, go-to-market |
 
 ## Notion Templates
 
