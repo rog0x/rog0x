@@ -43,6 +43,7 @@ Professional prompt collections for specific workflows.
 | [junior-developer-prompts](https://github.com/rog0x/junior-developer-prompts) | 30 prompts for junior developers -- learning, coding practice, debugging, career prep |
 | [content-creator-prompts](https://github.com/rog0x/content-creator-prompts) | 35 prompts for content creators -- blogs, social media, email, video, SEO |
 | [saas-builder-prompts](https://github.com/rog0x/saas-builder-prompts) | 40 prompts for SaaS founders -- validation, architecture, launch, growth, fundraising |
+| [data-science-prompts](https://github.com/rog0x/data-science-prompts) | 35 prompts for data science -- exploration, visualization, ML, SQL, statistics |
 
 ## Notion Templates
 
