@@ -28,6 +28,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-npm-tools](https://github.com/rog0x/mcp-npm-tools) | npm tools: search, info, audit, bundle size, compare packages |
 | [mcp-database-tools](https://github.com/rog0x/mcp-database-tools) | SQL tools: formatter, explainer, schema analyzer, query builder, migrations |
 | [mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) | Testing: test generator, mock data, API mocks, coverage analyzer, assertions |
+| [mcp-color-tools](https://github.com/rog0x/mcp-color-tools) | Colors: HEX/RGB/HSL converter, palette generator, WCAG contrast, CSS gradients |
 
 ## CLI Tools
 
