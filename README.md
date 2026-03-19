@@ -34,6 +34,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-math-tools](https://github.com/rog0x/mcp-math-tools) | Math: calculator, unit converter, statistics, number formatter, percentages |
 | [mcp-string-tools](https://github.com/rog0x/mcp-string-tools) | Strings: text analyzer, transformer, diff, template engine, slug generator |
 | [mcp-network-tools](https://github.com/rog0x/mcp-network-tools) | Network: DNS lookup, IP geolocation, SSL checker, WHOIS, HTTP ping |
+| [mcp-image-tools](https://github.com/rog0x/mcp-image-tools) | Images: metadata reader, favicon finder, OG image, placeholders, responsive |
 
 ## CLI Tools
 
