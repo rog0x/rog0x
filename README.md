@@ -68,6 +68,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-interview-prep](https://github.com/rog0x/notion-interview-prep) | Interview Prep -- company tracker, question bank, study plan, mock interviews, offers |
 | [notion-personal-finance](https://github.com/rog0x/notion-personal-finance) | Personal Finance -- income, expenses, budgets, subscriptions, savings, investments |
 | [notion-health-fitness](https://github.com/rog0x/notion-health-fitness) | Health & Fitness -- workouts, nutrition, habits, sleep, body metrics, goals |
+| [notion-job-search](https://github.com/rog0x/notion-job-search) | Job Search -- applications, company research, contacts, follow-ups, offer comparison |
 
 ---
 
