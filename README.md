@@ -24,6 +24,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-file-tools](https://github.com/rog0x/mcp-file-tools) | File tools: dir tree, stats, duplicate finder, code counter, file search |
 | [mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools) | Docker: containers, images, Dockerfile analyzer, compose analyzer, logs |
 | [mcp-git-tools](https://github.com/rog0x/mcp-git-tools) | Git: commit log, diff, blame, repo stats, branch analysis |
+| [mcp-env-tools](https://github.com/rog0x/mcp-env-tools) | Env tools: .env parser, generator, port checker, system info, deps |
 
 ## CLI Tools
 
