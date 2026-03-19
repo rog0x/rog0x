@@ -103,6 +103,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-home-renovation](https://github.com/rog0x/notion-home-renovation) | Home Renovation -- rooms, budget, contractors, timeline, materials, decisions |
 | [notion-social-media](https://github.com/rog0x/notion-social-media) | Social Media -- content calendar, post database, hashtags, analytics, campaigns |
 | [notion-small-business](https://github.com/rog0x/notion-small-business) | Small Business -- CRM, projects, invoicing, revenue, marketing pipeline, team |
+| [notion-crm-lite](https://github.com/rog0x/notion-crm-lite) | CRM Lite -- contacts, deal pipeline, activity log, follow-ups |
 
 ---
 
