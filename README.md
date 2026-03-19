@@ -60,6 +60,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-startup-founder-os](https://github.com/rog0x/notion-startup-founder-os) | Startup Founder OS -- OKRs, roadmap, CRM, investors, metrics, hiring, sprints |
 | [notion-project-manager](https://github.com/rog0x/notion-project-manager) | Project Manager Pro -- sprints, team, risks, releases, retrospectives, decisions |
 | [notion-interview-prep](https://github.com/rog0x/notion-interview-prep) | Interview Prep -- company tracker, question bank, study plan, mock interviews, offers |
+| [notion-personal-finance](https://github.com/rog0x/notion-personal-finance) | Personal Finance -- income, expenses, budgets, subscriptions, savings, investments |
 
 ---
 
