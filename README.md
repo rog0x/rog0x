@@ -40,6 +40,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) | Performance: benchmark, memory analysis, Big O, bundle size, load test |
 | [mcp-log-tools](https://github.com/rog0x/mcp-log-tools) | Logs: parse, filter, analyze patterns, format/convert, statistics |
 | [mcp-docs-tools](https://github.com/rog0x/mcp-docs-tools) | Docs: JSDoc generator, README analyzer, changelog, API docs, comments |
+| [mcp-schema-tools](https://github.com/rog0x/mcp-schema-tools) | Schema: JSON Schema gen, TypeScript gen, validator, mock data, diff |
 
 ## CLI Tools
 
