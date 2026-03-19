@@ -75,6 +75,7 @@ Professional prompt collections for specific workflows.
 | [security-prompts](https://github.com/rog0x/security-prompts) | 30 prompts for cybersecurity -- code audits, pentesting, incident response, compliance |
 | [ui-design-prompts](https://github.com/rog0x/ui-design-prompts) | 30 prompts for UI/UX -- components, design systems, accessibility, responsive |
 | [product-management-prompts](https://github.com/rog0x/product-management-prompts) | 30 prompts for PMs -- PRDs, RICE, user research, metrics, go-to-market |
+| [api-development-prompts](https://github.com/rog0x/api-development-prompts) | 30 prompts for API dev -- REST design, auth, database, testing, scaling |
 | [technical-writing-prompts](https://github.com/rog0x/technical-writing-prompts) | 30 prompts for tech writing -- API docs, READMEs, runbooks, doc strategy |
 
 ## Notion Templates
