@@ -38,6 +38,7 @@ Ready-to-use Notion systems for developers and freelancers.
 |---|---|
 | [notion-developer-hub](https://github.com/rog0x/notion-developer-hub) | Developer Productivity Hub -- project tracking, docs, and workflows |
 | [notion-freelancer-os](https://github.com/rog0x/notion-freelancer-os) | Complete freelancer OS -- CRM, invoicing, projects, time tracking |
+| [notion-student-planner](https://github.com/rog0x/notion-student-planner) | Student Planner -- courses, assignments, exams, GPA, study schedule |
 
 ---
 
