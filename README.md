@@ -45,6 +45,13 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-a11y-tools](https://github.com/rog0x/mcp-a11y-tools) | Accessibility: alt text, headings, WCAG contrast, ARIA, form accessibility |
 | [mcp-cache-tools](https://github.com/rog0x/mcp-cache-tools) | Cache: HTTP headers, cache keys, LRU/LFU simulation, CDN detection |
 
+## SaaS Products
+
+| Product | Description |
+|---|---|
+| [status-page](https://status-page-peach.vercel.app) | Free status page — monitor uptime, response time, incidents |
+| [url-shortener](https://url-shortener-beryl-six.vercel.app) | Free URL shortener with click analytics |
+
 ## CLI Tools
 
 | Repository | Description |
