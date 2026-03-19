@@ -37,6 +37,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-image-tools](https://github.com/rog0x/mcp-image-tools) | Images: metadata reader, favicon finder, OG image, placeholders, responsive |
 | [mcp-config-tools](https://github.com/rog0x/mcp-config-tools) | Config: JSON/JSONC, YAML, TOML, INI parsers, deep merge, config diff |
 | [mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools) | Lint: code style, naming conventions, complexity, dead code, imports |
+| [mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) | Performance: benchmark, memory analysis, Big O, bundle size, load test |
 
 ## CLI Tools
 
