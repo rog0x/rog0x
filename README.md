@@ -53,6 +53,7 @@ Professional prompt collections for specific workflows.
 | [data-science-prompts](https://github.com/rog0x/data-science-prompts) | 35 prompts for data science -- exploration, visualization, ML, SQL, statistics |
 | [devops-prompts](https://github.com/rog0x/devops-prompts) | 35 prompts for DevOps -- CI/CD, Docker, Kubernetes, Terraform, monitoring, security |
 | [security-prompts](https://github.com/rog0x/security-prompts) | 30 prompts for cybersecurity -- code audits, pentesting, incident response, compliance |
+| [ui-design-prompts](https://github.com/rog0x/ui-design-prompts) | 30 prompts for UI/UX -- components, design systems, accessibility, responsive |
 
 ## Notion Templates
 
