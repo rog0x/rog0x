@@ -21,6 +21,12 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-markdown-tools](https://github.com/rog0x/mcp-markdown-tools) | Markdown tools: TOC, lint, format, stats, table generator |
 | [mcp-regex-tools](https://github.com/rog0x/mcp-regex-tools) | Regex & text tools: test, replace, extract, explain, case conversion |
 
+## CLI Tools
+
+| Repository | Description |
+|---|---|
+| [readme-gen](https://github.com/rog0x/readme-gen) | Auto-generate professional README.md from project structure |
+
 ## Prompt Packs
 
 Professional prompt collections for specific workflows.
