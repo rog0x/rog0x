@@ -72,6 +72,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-personal-finance](https://github.com/rog0x/notion-personal-finance) | Personal Finance -- income, expenses, budgets, subscriptions, savings, investments |
 | [notion-health-fitness](https://github.com/rog0x/notion-health-fitness) | Health & Fitness -- workouts, nutrition, habits, sleep, body metrics, goals |
 | [notion-job-search](https://github.com/rog0x/notion-job-search) | Job Search -- applications, company research, contacts, follow-ups, offer comparison |
+| [notion-habit-journal](https://github.com/rog0x/notion-habit-journal) | Habit Journal -- daily habits with streaks, mood tracking, weekly reviews, journaling |
 
 ---
 
