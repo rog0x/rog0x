@@ -46,6 +46,8 @@ Professional prompt collections for specific workflows.
 | [content-creator-prompts](https://github.com/rog0x/content-creator-prompts) | 35 prompts for content creators -- blogs, social media, email, video, SEO |
 | [saas-builder-prompts](https://github.com/rog0x/saas-builder-prompts) | 40 prompts for SaaS founders -- validation, architecture, launch, growth, fundraising |
 | [data-science-prompts](https://github.com/rog0x/data-science-prompts) | 35 prompts for data science -- exploration, visualization, ML, SQL, statistics |
+| [devops-prompts](https://github.com/rog0x/devops-prompts) | 35 prompts for DevOps -- CI/CD, Docker, Kubernetes, Terraform, monitoring, security |
+| [security-prompts](https://github.com/rog0x/security-prompts) | 30 prompts for cybersecurity -- code audits, pentesting, incident response, compliance |
 
 ## Notion Templates
 
