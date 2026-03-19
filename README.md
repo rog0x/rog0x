@@ -32,6 +32,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-crypto-tools](https://github.com/rog0x/mcp-crypto-tools) | Crypto: hash (MD5/SHA), encode/decode, UUID/nanoid, passwords, JWT |
 | [mcp-time-tools](https://github.com/rog0x/mcp-time-tools) | Time: timezone convert, date calculator, cron parser, timestamps, durations |
 | [mcp-math-tools](https://github.com/rog0x/mcp-math-tools) | Math: calculator, unit converter, statistics, number formatter, percentages |
+| [mcp-string-tools](https://github.com/rog0x/mcp-string-tools) | Strings: text analyzer, transformer, diff, template engine, slug generator |
 
 ## CLI Tools
 
