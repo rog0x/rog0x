@@ -80,6 +80,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-job-search](https://github.com/rog0x/notion-job-search) | Job Search -- applications, company research, contacts, follow-ups, offer comparison |
 | [notion-habit-journal](https://github.com/rog0x/notion-habit-journal) | Habit Journal -- daily habits with streaks, mood tracking, weekly reviews, journaling |
 | [notion-wedding-planner](https://github.com/rog0x/notion-wedding-planner) | Wedding Planner -- budget, guest list, vendors, timeline, seating, inspiration |
+| [notion-travel-planner](https://github.com/rog0x/notion-travel-planner) | Travel Planner -- itineraries, budgets, bookings, packing lists, journal |
 
 ---
 
