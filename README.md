@@ -20,6 +20,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-json-tools](https://github.com/rog0x/mcp-json-tools) | JSON/data tools: validate, diff, transform, CSV/YAML convert |
 | [mcp-markdown-tools](https://github.com/rog0x/mcp-markdown-tools) | Markdown tools: TOC, lint, format, stats, table generator |
 | [mcp-regex-tools](https://github.com/rog0x/mcp-regex-tools) | Regex & text tools: test, replace, extract, explain, case conversion |
+| [mcp-api-tools](https://github.com/rog0x/mcp-api-tools) | API testing: HTTP requests, health checks, JWT decode, URL parse, headers |
 
 ## CLI Tools
 
