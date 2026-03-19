@@ -39,6 +39,7 @@ Professional prompt collections for specific workflows.
 | [freelancer-toolkit-prompts](https://github.com/rog0x/freelancer-toolkit-prompts) | 40 professional prompts for freelance business -- proposals, contracts, pricing, communication |
 | [junior-developer-prompts](https://github.com/rog0x/junior-developer-prompts) | 30 prompts for junior developers -- learning, coding practice, debugging, career prep |
 | [content-creator-prompts](https://github.com/rog0x/content-creator-prompts) | 35 prompts for content creators -- blogs, social media, email, video, SEO |
+| [saas-builder-prompts](https://github.com/rog0x/saas-builder-prompts) | 40 prompts for SaaS founders -- validation, architecture, launch, growth, fundraising |
 
 ## Notion Templates
 
@@ -51,6 +52,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-student-planner](https://github.com/rog0x/notion-student-planner) | Student Planner -- courses, assignments, exams, GPA, study schedule |
 | [notion-content-creator-os](https://github.com/rog0x/notion-content-creator-os) | Content Creator OS -- calendar, ideas vault, blog, social, newsletter, analytics |
 | [notion-startup-founder-os](https://github.com/rog0x/notion-startup-founder-os) | Startup Founder OS -- OKRs, roadmap, CRM, investors, metrics, hiring, sprints |
+| [notion-project-manager](https://github.com/rog0x/notion-project-manager) | Project Manager Pro -- sprints, team, risks, releases, retrospectives, decisions |
 
 ---
 
