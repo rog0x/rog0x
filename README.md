@@ -86,6 +86,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-travel-planner](https://github.com/rog0x/notion-travel-planner) | Travel Planner -- itineraries, budgets, bookings, packing lists, journal |
 | [notion-recipe-book](https://github.com/rog0x/notion-recipe-book) | Recipe Book -- recipes, meal planner, grocery list, cooking journal |
 | [notion-reading-tracker](https://github.com/rog0x/notion-reading-tracker) | Reading Tracker -- book library, reading log, notes/highlights, wishlist |
+| [notion-pet-care](https://github.com/rog0x/notion-pet-care) | Pet Care -- profiles, health records, vaccinations, feeding, expenses |
 
 ---
 
