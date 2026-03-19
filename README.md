@@ -84,6 +84,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-wedding-planner](https://github.com/rog0x/notion-wedding-planner) | Wedding Planner -- budget, guest list, vendors, timeline, seating, inspiration |
 | [notion-travel-planner](https://github.com/rog0x/notion-travel-planner) | Travel Planner -- itineraries, budgets, bookings, packing lists, journal |
 | [notion-recipe-book](https://github.com/rog0x/notion-recipe-book) | Recipe Book -- recipes, meal planner, grocery list, cooking journal |
+| [notion-reading-tracker](https://github.com/rog0x/notion-reading-tracker) | Reading Tracker -- book library, reading log, notes/highlights, wishlist |
 
 ---
 
