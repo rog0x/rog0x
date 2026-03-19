@@ -89,6 +89,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-recipe-book](https://github.com/rog0x/notion-recipe-book) | Recipe Book -- recipes, meal planner, grocery list, cooking journal |
 | [notion-reading-tracker](https://github.com/rog0x/notion-reading-tracker) | Reading Tracker -- book library, reading log, notes/highlights, wishlist |
 | [notion-pet-care](https://github.com/rog0x/notion-pet-care) | Pet Care -- profiles, health records, vaccinations, feeding, expenses |
+| [notion-home-renovation](https://github.com/rog0x/notion-home-renovation) | Home Renovation -- rooms, budget, contractors, timeline, materials, decisions |
 
 ---
 
