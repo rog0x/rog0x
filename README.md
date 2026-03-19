@@ -17,6 +17,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-web-tools](https://github.com/rog0x/mcp-web-tools) | Web extraction, search, monitoring, and conversion tools for AI agents |
 | [mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools) | SEO analysis tools for AI agents |
 | [mcp-github-tools](https://github.com/rog0x/mcp-github-tools) | GitHub analytics tools for AI agents |
+| [mcp-json-tools](https://github.com/rog0x/mcp-json-tools) | JSON/data tools: validate, diff, transform, CSV/YAML convert |
 
 ## Prompt Packs
 
