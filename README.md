@@ -43,6 +43,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-schema-tools](https://github.com/rog0x/mcp-schema-tools) | Schema: JSON Schema gen, TypeScript gen, validator, mock data, diff |
 | [mcp-i18n-tools](https://github.com/rog0x/mcp-i18n-tools) | i18n: language detection, string extraction, translations, plurals, formatting |
 | [mcp-a11y-tools](https://github.com/rog0x/mcp-a11y-tools) | Accessibility: alt text, headings, WCAG contrast, ARIA, form accessibility |
+| [mcp-cache-tools](https://github.com/rog0x/mcp-cache-tools) | Cache: HTTP headers, cache keys, LRU/LFU simulation, CDN detection |
 
 ## CLI Tools
 
