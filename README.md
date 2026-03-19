@@ -22,6 +22,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-regex-tools](https://github.com/rog0x/mcp-regex-tools) | Regex & text tools: test, replace, extract, explain, case conversion |
 | [mcp-api-tools](https://github.com/rog0x/mcp-api-tools) | API testing: HTTP requests, health checks, JWT decode, URL parse, headers |
 | [mcp-file-tools](https://github.com/rog0x/mcp-file-tools) | File tools: dir tree, stats, duplicate finder, code counter, file search |
+| [mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools) | Docker: containers, images, Dockerfile analyzer, compose analyzer, logs |
 
 ## CLI Tools
 
@@ -54,6 +55,7 @@ Ready-to-use Notion systems for developers and freelancers.
 | [notion-content-creator-os](https://github.com/rog0x/notion-content-creator-os) | Content Creator OS -- calendar, ideas vault, blog, social, newsletter, analytics |
 | [notion-startup-founder-os](https://github.com/rog0x/notion-startup-founder-os) | Startup Founder OS -- OKRs, roadmap, CRM, investors, metrics, hiring, sprints |
 | [notion-project-manager](https://github.com/rog0x/notion-project-manager) | Project Manager Pro -- sprints, team, risks, releases, retrospectives, decisions |
+| [notion-interview-prep](https://github.com/rog0x/notion-interview-prep) | Interview Prep -- company tracker, question bank, study plan, mock interviews, offers |
 
 ---
 
