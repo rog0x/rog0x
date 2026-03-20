@@ -46,6 +46,7 @@ Model Context Protocol servers that give AI agents real-world capabilities.
 | [mcp-cache-tools](https://github.com/rog0x/mcp-cache-tools) | Cache: HTTP headers, cache keys, LRU/LFU simulation, CDN detection |
 | [mcp-dep-tools](https://github.com/rog0x/mcp-dep-tools) | Dependencies: license checker, outdated finder, dep tree, size, security |
 | [mcp-webhook-tools](https://github.com/rog0x/mcp-webhook-tools) | Webhooks: send, validate signatures, generate payloads, debug, retry |
+| [mcp-task-tools](https://github.com/rog0x/mcp-task-tools) | Tasks: todo manager, RICE priority, estimation, standup, burndown |
 
 ## SaaS Products
 
