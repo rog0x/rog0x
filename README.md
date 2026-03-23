@@ -1,113 +1,74 @@
-# rog0x
+# rog0x — 33 Free MCP Servers for AI Agents
 
-**Developer Tools & Digital Products**
+> Model Context Protocol servers that give Claude, GPT, and other AI agents real-world capabilities. All free, open-source, MIT licensed.
 
-I build tools that make developers more productive. MCP servers, prompt packs, and Notion templates.
+## Quick Install
 
-[![Website](https://img.shields.io/badge/Website-landing--site-blue?style=flat-square)](https://landing-site-virid-ten.vercel.app)
+```bash
+# Add to Claude Code with one command:
+claude mcp add web-tools npx @rog0x/mcp-web-tools
+claude mcp add db-tools npx @rog0x/mcp-database-tools
+claude mcp add test npx @rog0x/mcp-testing-tools
+```
 
----
+## All 33 Servers
 
-## MCP Servers
+### Web & Content
+| Server | Install | What it does |
+|--------|---------|-------------|
+| [mcp-web-tools](https://github.com/rog0x/mcp-web-tools) | `npx @rog0x/mcp-web-tools` | Web scraping, search, monitoring |
+| [mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools) | `npx @rog0x/mcp-seo-tools` | SEO analysis, meta tags, keywords |
+| [mcp-markdown-tools](https://github.com/rog0x/mcp-markdown-tools) | `npx @rog0x/mcp-markdown-tools` | TOC, lint, format, stats |
 
-Model Context Protocol servers that give AI agents real-world capabilities.
+### Development
+| Server | Install | What it does |
+|--------|---------|-------------|
+| [mcp-github-tools](https://github.com/rog0x/mcp-github-tools) | `npx @rog0x/mcp-github-tools` | Repo analytics, PRs, issues |
+| [mcp-git-tools](https://github.com/rog0x/mcp-git-tools) | `npx @rog0x/mcp-git-tools` | Log, diff, blame, branch stats |
+| [mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools) | `npx @rog0x/mcp-docker-tools` | Containers, images, Dockerfile |
+| [mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) | `npx @rog0x/mcp-testing-tools` | Test generation, mocks, coverage |
+| [mcp-api-tools](https://github.com/rog0x/mcp-api-tools) | `npx @rog0x/mcp-api-tools` | HTTP client, JWT, headers |
+| [mcp-npm-tools](https://github.com/rog0x/mcp-npm-tools) | `npx @rog0x/mcp-npm-tools` | Package search, audit, bundle |
+| [mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools) | `npx @rog0x/mcp-lint-tools` | Style, naming, complexity |
+| [mcp-docs-tools](https://github.com/rog0x/mcp-docs-tools) | `npx @rog0x/mcp-docs-tools` | JSDoc, README, changelog |
 
-| Repository | Description |
-|---|---|
-| [mcp-web-tools](https://github.com/rog0x/mcp-web-tools) | Web extraction, search, monitoring, and conversion tools for AI agents |
-| [mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools) | SEO analysis tools for AI agents |
-| [mcp-github-tools](https://github.com/rog0x/mcp-github-tools) | GitHub analytics tools for AI agents |
-| [mcp-json-tools](https://github.com/rog0x/mcp-json-tools) | JSON/data tools: validate, diff, transform, CSV/YAML convert |
-| [mcp-markdown-tools](https://github.com/rog0x/mcp-markdown-tools) | Markdown tools: TOC, lint, format, stats, table generator |
-| [mcp-regex-tools](https://github.com/rog0x/mcp-regex-tools) | Regex & text tools: test, replace, extract, explain, case conversion |
-| [mcp-api-tools](https://github.com/rog0x/mcp-api-tools) | API testing: HTTP requests, health checks, JWT decode, URL parse, headers |
-| [mcp-file-tools](https://github.com/rog0x/mcp-file-tools) | File tools: dir tree, stats, duplicate finder, code counter, file search |
-| [mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools) | Docker: containers, images, Dockerfile analyzer, compose analyzer, logs |
-| [mcp-git-tools](https://github.com/rog0x/mcp-git-tools) | Git: commit log, diff, blame, repo stats, branch analysis |
-| [mcp-env-tools](https://github.com/rog0x/mcp-env-tools) | Env tools: .env parser, generator, port checker, system info, deps |
-| [mcp-npm-tools](https://github.com/rog0x/mcp-npm-tools) | npm tools: search, info, audit, bundle size, compare packages |
-| [mcp-database-tools](https://github.com/rog0x/mcp-database-tools) | SQL tools: formatter, explainer, schema analyzer, query builder, migrations |
-| [mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) | Testing: test generator, mock data, API mocks, coverage analyzer, assertions |
-| [mcp-color-tools](https://github.com/rog0x/mcp-color-tools) | Colors: HEX/RGB/HSL converter, palette generator, WCAG contrast, CSS gradients |
-| [mcp-crypto-tools](https://github.com/rog0x/mcp-crypto-tools) | Crypto: hash (MD5/SHA), encode/decode, UUID/nanoid, passwords, JWT |
-| [mcp-time-tools](https://github.com/rog0x/mcp-time-tools) | Time: timezone convert, date calculator, cron parser, timestamps, durations |
-| [mcp-math-tools](https://github.com/rog0x/mcp-math-tools) | Math: calculator, unit converter, statistics, number formatter, percentages |
-| [mcp-string-tools](https://github.com/rog0x/mcp-string-tools) | Strings: text analyzer, transformer, diff, template engine, slug generator |
-| [mcp-network-tools](https://github.com/rog0x/mcp-network-tools) | Network: DNS lookup, IP geolocation, SSL checker, WHOIS, HTTP ping |
-| [mcp-image-tools](https://github.com/rog0x/mcp-image-tools) | Images: metadata reader, favicon finder, OG image, placeholders, responsive |
-| [mcp-config-tools](https://github.com/rog0x/mcp-config-tools) | Config: JSON/JSONC, YAML, TOML, INI parsers, deep merge, config diff |
-| [mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools) | Lint: code style, naming conventions, complexity, dead code, imports |
-| [mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) | Performance: benchmark, memory analysis, Big O, bundle size, load test |
-| [mcp-log-tools](https://github.com/rog0x/mcp-log-tools) | Logs: parse, filter, analyze patterns, format/convert, statistics |
-| [mcp-docs-tools](https://github.com/rog0x/mcp-docs-tools) | Docs: JSDoc generator, README analyzer, changelog, API docs, comments |
-| [mcp-schema-tools](https://github.com/rog0x/mcp-schema-tools) | Schema: JSON Schema gen, TypeScript gen, validator, mock data, diff |
-| [mcp-i18n-tools](https://github.com/rog0x/mcp-i18n-tools) | i18n: language detection, string extraction, translations, plurals, formatting |
-| [mcp-a11y-tools](https://github.com/rog0x/mcp-a11y-tools) | Accessibility: alt text, headings, WCAG contrast, ARIA, form accessibility |
-| [mcp-cache-tools](https://github.com/rog0x/mcp-cache-tools) | Cache: HTTP headers, cache keys, LRU/LFU simulation, CDN detection |
-| [mcp-dep-tools](https://github.com/rog0x/mcp-dep-tools) | Dependencies: license checker, outdated finder, dep tree, size, security |
-| [mcp-webhook-tools](https://github.com/rog0x/mcp-webhook-tools) | Webhooks: send, validate signatures, generate payloads, debug, retry |
-| [mcp-task-tools](https://github.com/rog0x/mcp-task-tools) | Tasks: todo manager, RICE priority, estimation, standup, burndown |
+### Data & Formats
+| Server | Install | What it does |
+|--------|---------|-------------|
+| [mcp-json-tools](https://github.com/rog0x/mcp-json-tools) | `npx @rog0x/mcp-json-tools` | JSON/YAML/CSV validate, diff |
+| [mcp-database-tools](https://github.com/rog0x/mcp-database-tools) | `npx @rog0x/mcp-database-tools` | SQL format, schema, migrations |
+| [mcp-regex-tools](https://github.com/rog0x/mcp-regex-tools) | `npx @rog0x/mcp-regex-tools` | Test, explain, replace patterns |
+| [mcp-schema-tools](https://github.com/rog0x/mcp-schema-tools) | `npx @rog0x/mcp-schema-tools` | JSON Schema, TypeScript types |
+| [mcp-config-tools](https://github.com/rog0x/mcp-config-tools) | `npx @rog0x/mcp-config-tools` | JSON, YAML, TOML, INI |
 
-## SaaS Products
+### DevOps & Infrastructure
+| Server | Install | What it does |
+|--------|---------|-------------|
+| [mcp-env-tools](https://github.com/rog0x/mcp-env-tools) | `npx @rog0x/mcp-env-tools` | .env parser, ports, system info |
+| [mcp-network-tools](https://github.com/rog0x/mcp-network-tools) | `npx @rog0x/mcp-network-tools` | DNS, SSL, WHOIS, ping |
+| [mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) | `npx @rog0x/mcp-perf-tools` | Benchmark, memory, Big O |
+| [mcp-log-tools](https://github.com/rog0x/mcp-log-tools) | `npx @rog0x/mcp-log-tools` | Parse, filter, analyze logs |
+| [mcp-cache-tools](https://github.com/rog0x/mcp-cache-tools) | `npx @rog0x/mcp-cache-tools` | Headers, CDN, LRU |
+| [mcp-dep-tools](https://github.com/rog0x/mcp-dep-tools) | `npx @rog0x/mcp-dep-tools` | Licenses, outdated, security |
+| [mcp-webhook-tools](https://github.com/rog0x/mcp-webhook-tools) | `npx @rog0x/mcp-webhook-tools` | Send, validate, debug |
+| [mcp-task-tools](https://github.com/rog0x/mcp-task-tools) | `npx @rog0x/mcp-task-tools` | Todo, priority, estimation |
 
-| Product | Description |
-|---|---|
-| [status-page](https://status-page-peach.vercel.app) | Free status page — monitor uptime, response time, incidents |
-| [url-shortener](https://url-shortener-beryl-six.vercel.app) | Free URL shortener with click analytics |
+### Utilities
+| Server | Install | What it does |
+|--------|---------|-------------|
+| [mcp-crypto-tools](https://github.com/rog0x/mcp-crypto-tools) | `npx @rog0x/mcp-crypto-tools` | Hash, encode, UUID, passwords |
+| [mcp-time-tools](https://github.com/rog0x/mcp-time-tools) | `npx @rog0x/mcp-time-tools` | Timezone, cron, timestamps |
+| [mcp-math-tools](https://github.com/rog0x/mcp-math-tools) | `npx @rog0x/mcp-math-tools` | Calculator, units, statistics |
+| [mcp-string-tools](https://github.com/rog0x/mcp-string-tools) | `npx @rog0x/mcp-string-tools` | Analyzer, diff, templates |
+| [mcp-color-tools](https://github.com/rog0x/mcp-color-tools) | `npx @rog0x/mcp-color-tools` | Convert, palette, contrast |
+| [mcp-image-tools](https://github.com/rog0x/mcp-image-tools) | `npx @rog0x/mcp-image-tools` | Metadata, favicon, OG image |
+| [mcp-file-tools](https://github.com/rog0x/mcp-file-tools) | `npx @rog0x/mcp-file-tools` | Dir tree, stats, duplicates |
+| [mcp-i18n-tools](https://github.com/rog0x/mcp-i18n-tools) | `npx @rog0x/mcp-i18n-tools` | Locale, translations, plurals |
+| [mcp-a11y-tools](https://github.com/rog0x/mcp-a11y-tools) | `npx @rog0x/mcp-a11y-tools` | Alt text, contrast, ARIA |
 
-## CLI Tools
+## Links
 
-| Repository | Description |
-|---|---|
-| [readme-gen](https://github.com/rog0x/readme-gen) | Auto-generate professional README.md from project structure |
+- [All Products](https://landing-site-virid-ten.vercel.app) — Prompt packs, Notion templates, and more
+- [Blog](https://blog-theta-eight-85.vercel.app) — 85+ articles on MCP, AI, and developer productivity
+- [npm](https://www.npmjs.com/~rog0x) — All 33 packages
 
-## Prompt Packs
-
-Professional prompt collections for specific workflows.
-
-| Repository | Description |
-|---|---|
-| [claude-code-prompts](https://github.com/rog0x/claude-code-prompts) | 50 professional prompts for Claude Code developers |
-| [ai-automation-prompts](https://github.com/rog0x/ai-automation-prompts) | 50 professional prompts for automating workflows with AI |
-| [freelancer-toolkit-prompts](https://github.com/rog0x/freelancer-toolkit-prompts) | 40 professional prompts for freelance business -- proposals, contracts, pricing, communication |
-| [junior-developer-prompts](https://github.com/rog0x/junior-developer-prompts) | 30 prompts for junior developers -- learning, coding practice, debugging, career prep |
-| [content-creator-prompts](https://github.com/rog0x/content-creator-prompts) | 35 prompts for content creators -- blogs, social media, email, video, SEO |
-| [saas-builder-prompts](https://github.com/rog0x/saas-builder-prompts) | 40 prompts for SaaS founders -- validation, architecture, launch, growth, fundraising |
-| [data-science-prompts](https://github.com/rog0x/data-science-prompts) | 35 prompts for data science -- exploration, visualization, ML, SQL, statistics |
-| [devops-prompts](https://github.com/rog0x/devops-prompts) | 35 prompts for DevOps -- CI/CD, Docker, Kubernetes, Terraform, monitoring, security |
-| [security-prompts](https://github.com/rog0x/security-prompts) | 30 prompts for cybersecurity -- code audits, pentesting, incident response, compliance |
-| [ui-design-prompts](https://github.com/rog0x/ui-design-prompts) | 30 prompts for UI/UX -- components, design systems, accessibility, responsive |
-| [product-management-prompts](https://github.com/rog0x/product-management-prompts) | 30 prompts for PMs -- PRDs, RICE, user research, metrics, go-to-market |
-| [api-development-prompts](https://github.com/rog0x/api-development-prompts) | 30 prompts for API dev -- REST design, auth, database, testing, scaling |
-| [technical-writing-prompts](https://github.com/rog0x/technical-writing-prompts) | 30 prompts for tech writing -- API docs, READMEs, runbooks, doc strategy |
-
-## Notion Templates
-
-Ready-to-use Notion systems for developers and freelancers.
-
-| Repository | Description |
-|---|---|
-| [notion-developer-hub](https://github.com/rog0x/notion-developer-hub) | Developer Productivity Hub -- project tracking, docs, and workflows |
-| [notion-freelancer-os](https://github.com/rog0x/notion-freelancer-os) | Complete freelancer OS -- CRM, invoicing, projects, time tracking |
-| [notion-student-planner](https://github.com/rog0x/notion-student-planner) | Student Planner -- courses, assignments, exams, GPA, study schedule |
-| [notion-content-creator-os](https://github.com/rog0x/notion-content-creator-os) | Content Creator OS -- calendar, ideas vault, blog, social, newsletter, analytics |
-| [notion-startup-founder-os](https://github.com/rog0x/notion-startup-founder-os) | Startup Founder OS -- OKRs, roadmap, CRM, investors, metrics, hiring, sprints |
-| [notion-project-manager](https://github.com/rog0x/notion-project-manager) | Project Manager Pro -- sprints, team, risks, releases, retrospectives, decisions |
-| [notion-interview-prep](https://github.com/rog0x/notion-interview-prep) | Interview Prep -- company tracker, question bank, study plan, mock interviews, offers |
-| [notion-personal-finance](https://github.com/rog0x/notion-personal-finance) | Personal Finance -- income, expenses, budgets, subscriptions, savings, investments |
-| [notion-health-fitness](https://github.com/rog0x/notion-health-fitness) | Health & Fitness -- workouts, nutrition, habits, sleep, body metrics, goals |
-| [notion-job-search](https://github.com/rog0x/notion-job-search) | Job Search -- applications, company research, contacts, follow-ups, offer comparison |
-| [notion-habit-journal](https://github.com/rog0x/notion-habit-journal) | Habit Journal -- daily habits with streaks, mood tracking, weekly reviews, journaling |
-| [notion-wedding-planner](https://github.com/rog0x/notion-wedding-planner) | Wedding Planner -- budget, guest list, vendors, timeline, seating, inspiration |
-| [notion-travel-planner](https://github.com/rog0x/notion-travel-planner) | Travel Planner -- itineraries, budgets, bookings, packing lists, journal |
-| [notion-recipe-book](https://github.com/rog0x/notion-recipe-book) | Recipe Book -- recipes, meal planner, grocery list, cooking journal |
-| [notion-reading-tracker](https://github.com/rog0x/notion-reading-tracker) | Reading Tracker -- book library, reading log, notes/highlights, wishlist |
-| [notion-pet-care](https://github.com/rog0x/notion-pet-care) | Pet Care -- profiles, health records, vaccinations, feeding, expenses |
-| [notion-home-renovation](https://github.com/rog0x/notion-home-renovation) | Home Renovation -- rooms, budget, contractors, timeline, materials, decisions |
-| [notion-social-media](https://github.com/rog0x/notion-social-media) | Social Media -- content calendar, post database, hashtags, analytics, campaigns |
-| [notion-small-business](https://github.com/rog0x/notion-small-business) | Small Business -- CRM, projects, invoicing, revenue, marketing pipeline, team |
-| [notion-crm-lite](https://github.com/rog0x/notion-crm-lite) | CRM Lite -- contacts, deal pipeline, activity log, follow-ups |
-
----
-
-**[Browse all products](https://landing-site-virid-ten.vercel.app)** | **[Telegram Bot](https://t.me/rog0x_bot)**
